@@ -1,0 +1,5 @@
+HP01,Harry Potter,JK ROWLING,Pottermore Publishing,28
+GOT01,Game Of Thrones,George RR Martin,HBO,149
+THGv01,The Hunger Games,Suzanne Collins,Scholastic Corporation,2
+TMR1,The Maze Runner,James Dashner,Dell Publishing,9
+DVR,Divergent,Veronica Roth,Tegen Books,60
